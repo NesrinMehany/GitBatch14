@@ -6,6 +6,7 @@ public class calss03 {
 		// TODO Auto-generated method stub
 System.out.println("hey this is a git class");
 System.out.println("changes");
+System.out.println("hi this is a new version");
 	}
 
 }
